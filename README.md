@@ -1,5 +1,5 @@
 # Fuzzy-C-Means
-Implementation de l'algorithme Fuzzy C-Means pour un [TP du module Reconnaissance des formes](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/Enonc%C3%A9%20TP.pdf)(M2 VMI- FI)
+Implementation de l'algorithme Fuzzy C-Means pour un [TP du module Reconnaissance des formes](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/Enonc%C3%A9%20TP.pdf) (M2 VMI- FI)
 
 ## Algorithme
 Le Fuzzy C-means (FCM) est une méthode de Clustering (regroupement) qui permet à une donnée d'appartenir à deux groupes ou plus. 
