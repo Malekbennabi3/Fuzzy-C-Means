@@ -17,7 +17,7 @@ où:
 
 1- Initialiser la matrice $U<=[u_{ij}] \quad , U^{(0)}$
 
-2- À l'étape k : calculer les vecteurs de centres $C^{(k)}=[c_j] avec U^{(k)}$
+2- À l'étape k : calculer les vecteurs de centres $C^{(k)}=[c_j] avec \quad U^{(k)}$
 
   $$ C_j=\frac{\sum_{i=1}^{N}u_{ij}^m.x_i}{\sum_{i=1}^{N}u_{ij}^m} $$
 
