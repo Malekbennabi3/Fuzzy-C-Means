@@ -13,6 +13,10 @@ où:
 - xi est la ième des données mesurées d-dimensionnelles, 
 - cj est le centre d-dimensionnel de la classe.
 
+## Etapes d'Execution
+
+1- Initialiser la matrice $U<=[u_ij]$ , U^(0)
+
 ## Image Originale vs Image après segmentation
 
 <div align="center">
