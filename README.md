@@ -3,7 +3,7 @@ Implementation de l'algorithme Fuzzy C-Means pour le module Reconnaissance des f
 
 ## Algorithme
 Le Fuzzy C-means (FCM) est une méthode de Clustering (regroupement) qui permet à une donnée d'appartenir à deux groupes ou plus. 
-Cette méthode (développée par Dunn en 1973 et améliorée par Bezdek en 1981) est fréquemment utilisée dans la reconnaissance des formes. Elle est basée sur la minimisation de la fonction objective suivante :
+Cette méthode (développée par [Dunn en 1973](https://doi.org/10.1080/01969727308546046) et améliorée par [Bezdek en 1981](https://doi.org/10.1007/978-1-4757-0450-1)) est fréquemment utilisée dans la reconnaissance des formes. Elle est basée sur la minimisation de la fonction objective suivante :
 
 $$ F_m=\sum_{i=1}^{N}\sum_{j=1}^{C}u_{ij}^{m}\left\| x_i-c_j \right\|^{2}  \quad , \quad   1\le m\le \infty $$
 
