@@ -10,7 +10,7 @@ $$ F_m=\sum_{i=1}^{N}\sum_{j=1}^{C}u_{ij}^{m}\left\| x_i-c_j \right\|^{2}  \quad
 où:
 - m est un nombre réel supérieur à 1
 - uij est le degré d'appartenance de xi à la classe j, 
-- xi est la ième des données mesurées d-dimensionnelles, 
+- xi est la i-ème des données mesurées d-dimensionnelles, 
 - cj est le centre d-dimensionnel de la classe.
 
 ## Etapes d'Execution
