@@ -15,4 +15,9 @@ où:
 
 ## Image Originale vs Image après segmentation
 
+<div align="center">
+  <img src="[image1.png](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/milky-way-nvg.jpg)" width="400" height="300">
+  <img src="[image2.png](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/Images%20segmentees/segmentation_iter_11.png)" width="400" height="300">
+</div>
+
 ![Originale](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/milky-way-nvg.jpg) ![Segmentee](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/Images%20segmentees/segmentation_iter_11.png)
