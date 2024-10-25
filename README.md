@@ -25,7 +25,7 @@ où:
 
 $$ u_{ij}=\frac{1}{\sum_{k=1}^{C}(\frac{\left\| x_i-c_j \right\|}{\left\| x_i-c_k \right\|})^{\frac{2}{m-1}}} $$
 
-4- Arreter si $\left\| U^{(k+1)}-U^{(k)} \right\|\le \epsilon$ 
+4- Arreter Si $\left\| U^{(k+1)}-U^{(k)} \right\|\le \epsilon$ 
     Sinon retourner à l'etape 2
 
 ## Image Originale vs Image après segmentation
