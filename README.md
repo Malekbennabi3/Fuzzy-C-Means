@@ -17,11 +17,16 @@ où:
 
 1- Initialiser la matrice $U<=[u_{ij}] \quad , U^{(0)}$
 
-2- À l'étape k : calculer les vecteurs de centres $C^{(k)}=[c_j] avec \quad U^{(k)}$
+2- À l'étape k : calculer les vecteurs de centres $C^{(k)}=[c_j] \quad avec \quad U^{(k)}$
 
   $$ C_j=\frac{\sum_{i=1}^{N}u_{ij}^m.x_i}{\sum_{i=1}^{N}u_{ij}^m} $$
 
-3-Mettre à jour $U^{(k)}, \quad U^{(k+1)}$
+3- Mettre à jour $U^{(k)}, \quad U^{(k+1)}$
+
+$$ u_{ij}=\frac{1}{\sum_{k=1}^{C}(\frac{\left\| x_i-c_j \right\|}{\left\| x_i-c_k \right\|})^{\frac{2}{m-1}}} $$
+
+4- Arreter si $\left\| U^{(k+1)}-U^{(k)} \right\|\le \epsilon$ 
+    Sinon retourner à l'etape 2
 
 ## Image Originale vs Image après segmentation
 
