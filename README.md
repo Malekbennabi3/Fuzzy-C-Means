@@ -15,7 +15,7 @@ où:
 
 ## Etapes d'Execution
 
-1- Initialiser la matrice $U<=[u_ij]$ , U^(0)
+1- Initialiser la matrice $U<=[u_{ij}] , U^{(0)}$
 
 ## Image Originale vs Image après segmentation
 
