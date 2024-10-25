@@ -16,6 +16,7 @@ où:
 ## Etapes d'Execution
 
 1- Initialiser la matrice $U<=[u_{ij}] \quad , U^{(0)}$
+
 2- À l'étape k : calculer les vecteurs de centres $ C^{(k)}=[c_j] avec U^{(k)} $
 
 ## Image Originale vs Image après segmentation
