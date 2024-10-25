@@ -19,5 +19,3 @@ où:
   <img src="https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/milky-way-nvg.jpg" width="400" height="400">
   <img src="https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/Images%20segmentees/segmentation_iter_11.png" width="500" height=500">
 </div>
-
-![Originale](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/milky-way-nvg.jpg) ![Segmentee](https://github.com/Malekbennabi3/Fuzzy-C-Means/blob/main/Images%20segmentees/segmentation_iter_11.png)
